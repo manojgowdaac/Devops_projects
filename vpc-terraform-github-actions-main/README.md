@@ -22,11 +22,6 @@ By combining Terraform and GitHub Actions, you can:
 
 This project serves as a starting point for your infrastructure automation journey, providing a basic structure and guidelines to build upon.
 
-## Prerequisites
-Before you begin, ensure you have the following prerequisites:
 
-* GitHub Account
-* Terraform installed on your local machine.
-* Access to a cloud provider account (e.g., AWS, Azure, Google Cloud) and necessary API credentials.
 
 
