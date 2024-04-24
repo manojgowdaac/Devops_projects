@@ -21,7 +21,7 @@ cat <<EOF > /var/www/html/index.html
 <body>
   <h1>Terraform Project Server 1</h1>
   <h2>Instance ID: <span style="color:green">$INSTANCE_ID</span></h2>
-  <p>Hello, This is MANOJ GOWDA AC</p>
+  <p>Hello, I'm MANOJ GOWDA AC</p>
 
 </body>
 </html>
